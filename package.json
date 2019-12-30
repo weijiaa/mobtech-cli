@@ -1,5 +1,5 @@
 {
-  "name": "mobtech-cli",
+  "name": "mob-cli",
   "version": "0.0.1",
   "description": "MobTech 前端开发环境脚手架",
   "main": "index.js",
